@@ -1,4 +1,6 @@
 # chai-semver
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsofalse%2Fchai-semver.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsofalse%2Fchai-semver?ref=badge_shield)
+
 Semver plugin for Chai
 
 ## Installation
@@ -26,3 +28,6 @@ expect('1.2.0').to.satisfySemver('>1.0.3') // passes if given string is in given
 
 ## License
 This plugin is being released under MIT license.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsofalse%2Fchai-semver.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsofalse%2Fchai-semver?ref=badge_large)
