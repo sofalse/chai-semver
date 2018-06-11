@@ -1,6 +1,6 @@
 {
   "name": "chai-semver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Semver plugin for Chai",
   "main": "index.js",
   "repository": "https://github.com/sofalse/chai-semver.git",
@@ -18,5 +18,13 @@
   },
   "scripts": {
     "test": "nyc mocha && nyc report --reporter=text-lcov | coveralls"
-  }
+  },
+  "keywords": [
+    "chai",
+    "plugin",
+    "semver",
+    "range",
+    "unit test",
+    "mocha"
+  ]
 }
