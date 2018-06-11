@@ -1,5 +1,9 @@
 # chai-semver
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsofalse%2Fchai-semver.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsofalse%2Fchai-semver?ref=badge_shield)
+<p align="center">
+  <a href='https://travis-ci.org/sofalse/chai-semver'><img src='https://travis-ci.org/sofalse/chai-semver.svg?branch=master' alt='Build Status' /></a>
+  <a href='https://coveralls.io/github/sofalse/chai-semver?branch=master'><img src='https://coveralls.io/repos/github/sofalse/chai-semver/badge.svg?branch=master' alt='Coverage Status' /></a>
+  <a href='https://app.fossa.io/projects/git%2Bgithub.com%2Fsofalse%2Fchai-semver?ref=badge_shield'><img src='https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsofalse%2Fchai-semver.svg?type=shield' alt='FOSSA Status' /></a>
+</p>
 
 Semver plugin for Chai
 
