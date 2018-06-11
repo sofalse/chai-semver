@@ -1,6 +1,6 @@
 {
   "name": "chai-semver",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Semver plugin for Chai",
   "main": "index.js",
   "repository": "https://github.com/sofalse/chai-semver.git",
@@ -21,6 +21,7 @@
   },
   "keywords": [
     "chai",
+    "chai-plugin",
     "plugin",
     "semver",
     "range",
