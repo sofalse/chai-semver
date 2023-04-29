@@ -20,7 +20,8 @@ module.exports = (chai, utils) => {
         this.assert(
             semver.satisfies(actual, expected),
             '#{act} does not satisfy this semver pattern(#{exp})',
-            '#{act} does satisfy this semver pattern(${exp})'
+            '#{act} does satisfy this semver pattern(#{exp})',
+            expected
         )
     })
 }
